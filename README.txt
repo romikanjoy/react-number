@@ -291,3 +291,10 @@ Get React Developer Tools Chrome extension from Chrome Web Store.
 
 Props - Read Only data that can be passed from parent to child.
 State - Local variable within a class based component that can be changed programaticaly.
+
+*******
+Day 4
+*******
+
+State is local to a component where it is defined and can be modified only by that component.
+If you are importing any file other than .js you need to specify file extension.
