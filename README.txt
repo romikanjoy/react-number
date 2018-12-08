@@ -293,8 +293,10 @@ Props - Read Only data that can be passed from parent to child.
 State - Local variable within a class based component that can be changed programaticaly.
 
 *******
-Day 4
+Day 6
 *******
 
 State is local to a component where it is defined and can be modified only by that component.
 If you are importing any file other than .js you need to specify file extension.
+Compoent Lifecycle phases and methods -> refer picture.
+Complete React Counter App -> 
