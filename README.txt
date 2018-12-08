@@ -298,5 +298,6 @@ Day 6
 
 State is local to a component where it is defined and can be modified only by that component.
 If you are importing any file other than .js you need to specify file extension.
-Compoent Lifecycle phases and methods -> refer picture.
-Complete React Counter App -> 
+Compoent Lifecycle phases and methods (React v16.3 and above) -> refer picture.
+Complete React Counter App Source Code -> https://github.com/romikanjoy/react-number
+Please read the instructions below the source code (README.md) to get started.
